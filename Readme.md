@@ -2,17 +2,17 @@
 
 #### To play ConnectedFour against an AI opponent, first choose a search algorithm: minimax, alphabeta_pruning, or MCTS algorithm.
 
-#### To play with minimax:
+### To play with minimax:
 Make sure you have the files Game.py and minimax.py.
 Then, run "python3 minimax.py" in your terminal to start the game.
 If you want to change the depth limit for minimax, you need to access the minimax.py file and select the desired limit where it says "choose depth."
 
-#### To play with alphabeta:
+### To play with alphabeta:
 Make sure you have the files Game.py and alphabeta.py.
 Then, run "python3 alphabeta.py" in your terminal to start the game.
 If you want to change the depth limit for alphabeta, you need to access the alphabeta.py file and select the desired limit where it says "choose depth."
 
-#### To play with Monte Carlo Tree Search (MCTS):
+### To play with Monte Carlo Tree Search (MCTS):
 Make sure you have the files Game.py and montecarlo.py.
 Then, run "python3 montecarlo.py" in your terminal to start the game.
 This search algorithm depends on time, so if you want to change the time limit for MCTS, you need to access the montecarlo.py file and choose the desired time where it says "choose time."
